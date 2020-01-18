@@ -24,7 +24,7 @@ module.exports = {
       // If you are running your shop on a custom domain, you need to use that
       // as the shop name, without a trailing slash, for example:
       // shopName: "gatsby-shop.com",
-      shopName: "gatsby-source-shopify-test-shop",
+      shopName: "musles-enterprise",
 
       // An API access token to your Shopify shop. This is required.
       // You can generate an access token in the "Manage private apps" section
@@ -32,7 +32,7 @@ module.exports = {
       // to select "Allow this app to access your storefront data using the
       // Storefront API".
       // See: https://help.shopify.com/api/custom-storefronts/storefront-api/getting-started#authentication
-      accessToken: "example-wou7evoh0eexuf6chooz2jai2qui9pae4tieph1sei4deiboj",
+      accessToken: "7d380b6c2736f57dde861be1f1bf4517",
 
       // Set verbose to true to display a verbose output on `npm run develop`
       // or `npm run build`. This prints which nodes are being fetched and how
